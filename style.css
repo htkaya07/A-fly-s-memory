@@ -38,6 +38,7 @@ html, body {
   line-height: 0.75;
   text-align: center;
   color: #03584d;
+  padding: 30px;
 }
 
 #start.playing {
@@ -64,7 +65,7 @@ html, body {
   display: grid;
   grid-template-columns: repeat(5, 50px);
   grid-template-rows: repeat(5, 50px);
-  grid-gap: 1.5rem;
+  grid-gap: 0rem;
 
 
 }
